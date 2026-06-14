@@ -29,7 +29,7 @@ The To-Do List Application is a simple task management tool built using HTML, CS
 ![Add Task](assets/addtask.png)
 
 ### Remove Task
-![Remove Task](assets/removetask)
+![Remove Task](assets/removetask.png)
 
 ## Deployment
 The applicatrion is deployed using vercel

@@ -33,4 +33,4 @@ The To-Do List Application is a simple task management tool built using HTML, CS
 
 ## Deployment
 The applicatrion is deployed using vercel
-Live: advanced-to-do-list-bdddbv1pu-sukhwinder-s-projects.vercel.app
+- Live: https://advanced-to-do-list-2606bj5mx-sukhwinder-s-projects.vercel.app
